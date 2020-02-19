@@ -1,0 +1,140 @@
+- id: one
+  title: Strandvielfalt in&nbsp;Dubai
+  nav-title: Traumstände
+  description: "Dubai als Stranddestination? Ja, das Luxus-Emirat bietet für Wassersportler, Familien und Freunde der Zurückgezogenheit immer den passenden Streifen Sand am Roten Meer."
+
+  pois:
+    items:
+
+      - id: one-first-poi
+        img: img1
+        title: La Mer
+        description: "Zwischen Pearl Jumeirah und Jumeirah Bay erstreckt sich seit Herbst 2017 das Strand- und Vergnügungsareal La Mer. Traumhafte Aussicht auf die Skyline Dubais wird vom DIY-Design der Anlage kontrastiert, ein urbaner Spielplatz mit Fokus auf Nachhaltigkeit. Familien werden  mit dem Hawa Hawa Trampolin und dem Laguna Waterpark bestens bedient, Genießer finden allerlei Spezialitäten um sich durchzuprobieren (wie das HQ 459 mit ganztägigem Frühstück). Selfie nötig? Dann auf zu einem der Pop Art-inspirierten Graffitis und finden Sie Ihr Instagram-Motiv. "
+
+      - id: one-fourth-poi
+        img: img4
+        title: "Für Puristen: Black Palace Beach"
+        description: "Weniger Schnickschnack, mehr Strand. Ob Sie dem Spiel der Wellen zuschauen, sich in Urlaubslektüre vertiefen oder auf die Palmeninsel Jumeirah und den Burj Al Arab in der Ferne blicken wollen, Sie werden am Black Palace Beach recht ungestört sein. Zugleich ist der versteckte Strand perfekt für Wasserfreunde mit Selbstversorgungs-Zug: hier stören keine Restaurants oder Geschäfte Ihre Beach-Meditation, dafür müssen Sie Ihren eigenen Sonnenschirm & Co. mitbringen. Ein fairer Deal, wenn die Belohnung dafür so ein pures Sand- und Meervergnügen ist."
+
+      - id: one-second-poi
+        img: img2
+        title: "Für Sonnenanbeter: Sunset Beach"
+        description: "Der Ort für unvergessliche Sundowner ist Sunset Beach, auch bekannt als Umm Suqeim Beach. Hier sind Sie in direkter Nachbarschaft des Burj Al Arab, was besonders Abends für beeindruckende Fotomotive sorgt. Tagsüber können Sie sich einfach der Sonne und dem Roten Meer hingeben oder sich von der Strandbibliothek einen spannenden BAnd leihen. Besonderheit: Umm Suqeim Beach ist einer der wenigen Orte in Dubai, wo Nachtschwimmen erlaubt ist (bis Mitternacht)."
+
+      - id: one-third-poi
+        img: img3
+        title: "Surfin’ U.A.E: Kite Beach"
+        description: "Sein Name verrät es schon: Kite Beach ist ein Nirwana für Outdoor-Fanatiker. Kite Surfing, Stehpaddeln, Kajak fahren, für alle diese Aktivitäten ist der Spot die erste Adresse, vor allem wenn der Wind am Nachmittag zunimmt. Auch an Land lockt der sportliche Zeitvertreib bei Beachvolleyball – oder Sie nutzen die 14 km lange Joggingstrecke, um sich fit zu halten. Schauen Sie den Skatern im größten Skatepark der Vereinigten Arabischen Emirate bei Ihren Ollies zu und machen Sie sich nach so viel Action zum Café Salt, um den Strandtag mit einem Burger zu krönen."
+
+
+
+
+################################################################################
+
+
+
+- id: two
+  title: "Kultur"
+  nav-title: Kultur
+  description: "Dubais historische Vergangenheit durchzieht die Stadt und ist in Al Fahidi und seinen Souks zu spüren. Dubais Gegenwart und Zukunft wird in den Galerien und Eventspaces in Al Quoz vorskizziert."
+
+  pois:
+    items:
+
+      - id: one
+        img: img1
+        title: Al Fahidi & Al Seef
+        description: "Denkbar der größte Gegensatz zu seinen Wolkenkratzern ist der historische Bezirk von Al Fahidi in Bur Dubai. Dank seiner strategischen Lage am Dubai Creek ehemals ein eminent wichtiger Stadtteil, ist Al Fahidi von traditionellen Stadthäusern und Forts mit Windtürmen geprägt. Einige Straßen weiter schließt sich Al Seef an, dass Tradition mit Moderne fusioniert. Besuchen Sie den schwimmenden Markt mit regionalem Kunsthandwerk und decken Sie sich ein bei Designern aus Arabien und dem Rest der Welt."
+
+      - id: two-second-poi
+        img: img2
+        title: Traditionelle Souks
+        description: "Im Herzen des Emirats, am Dubai Creek wartet ein klassisch arabisches Erlebnis: die Souks (Märkte bzw Bazars). Reiben Sie sich ruhig die Augen vor all der Pracht am Goldsouk – wenn Sie Schmuck kaufen möchten, dann hier, denn alle Edelmetalle und Edelsteine sind auf Authentizität getestet. (Hobby-)Köche dürfen sich auf die Aromen am Gewürzsouk freuen. Haben es Ihnen Düfte angetan? Der Parfüm-Souk hat neben wohlduftenden Flakons auch ätherische Öle und Räucherstäbchen. Kombinieren Sie Ihren neuesten Duft dann mit Seide von Textil-Souk und die Verwandlung ist vollendet."
+
+      - id: two-third-poi
+        img: img3
+        title: Etihad Museum
+        description: "Wie war das Leben in Dubai vor dem Zusammenschluss der sieben Emirate? Das Etihad Museum gibt auf 25.000 qm anschauliche Antworten dazu. Das Hauptaugenmerk des Museums liegt auf den Jahren zwischen 1968 und 1974, als das Land am Arabischen Golf seine Unabhängigkeit erlangte – und Langeweile und verstaubte Pädagogik sei in den interaktiven Pavillons ferne. Doch auch für die Ästhetik ist gesorgt: das überaus markant geschwungene Dach der Institution ist Werk der Kanadier Moriyama and Teshima."
+
+      - id: two-fourth-poi
+        img: img4
+        title: Al Quozt und Al Serkal Avenue
+        description: "Lagerhäuser zu Galerien, Fabriken zu Museen: Al Quoz und die Alserkal Avenue sind florierende Kunstviertel, die Seite an Seite koexistieren. Hier kommen Künstler und Schriftsteller im A4 Space zusammen, um sich auszutauschen und zu kollaborieren, in The Fridge finden Sie nicht etwa gekühlte Lebensmittel, sondern Konzerte oder Events und über 15 Galerien in der Alserkal Avenue promoten regionale und internationale Kunst. Nach so viel Geschichtsstunde in den anderen Stadtteilen eine gelungene Abwechslung."
+
+
+
+################################################################################
+
+
+
+- id: three
+  title: "Sightseeing"
+  nav-title: Sightseeing
+  description: "In Dubai gibt es immer etwas zu sehen. Kein Wunder, so rasant wie hier wird kaum irgendwo auf der Welt gebaut. Ein gigantischer Bilderrahmen, ein neuer Kanal, ein Museum der Zukunft: Sehen Sie sich satt!"
+
+  pois:
+    items:
+
+      - id: one
+        img: img1
+        title: Dubai Frame
+        description: "Ist Dubai ein Bild für die Ewigkeit? Einen Bilderrahmen hat die metropole seit 2018 nun. Das Dubai Frame, natürlich der größte Rahmen seiner Art liegt an der spannenden Schnittstelle von Alt und Neu im Zabeel Park. Von unten können Sie Alt- oder Neustadt als fotogenen Bildausschnitt bewundern. Wenn Sie einen der beiden Vertikal-Türme besteigen, offenbart sich von der Verbindungsbrücke aus einer Höhe von 150 Metern ein spektakulärer Blick auf das Wüstenjuwel."
+
+      - id: two-second-poi
+        img: img2
+        title: Burj Khalifa, Fountains & Opera
+        description: "Das Wahrzeichen Dubais und höchste Gebäude der Welt reckt sich 828 Meter in den arabischen Himmel. Gleich daneben natürlich die größte Fontäne der Welt, die die Fountains of Bellagio in Las Vegas übertrifft. Vor der Dubai Mall beeindrucken tosende Wasserstrahlen im Takt zur Musik alle 30 Minuten Besucher und Einwohner zugleich. Hochkultur bietet die Dubai Opera nebenan, die das Dreiergespann komplettiert – und das mit einem Programm, das sich vor London oder New York nicht verstecken muss."
+
+      - id: two-third-poi
+        img: img3
+        title: Water Canal, Dubai Creek
+        description: "Wasser ist Leben, das der neue Water Canal der Wüstenstadt einhaucht. Die Wasserstraße verbindet auf 3,2 Kilometern Länge einen Ausläufer des Dubai Creek mit dem Arabischen Golf und verwandelt so einen Teil des Emirats in eine Insel. An seinen Ufern entstehen Lifestyle-Einrichtungen wie Hotels und Restaurants, in der Gegend um den Kanal sind drei weitere Stadtviertel geplant. Der Kanal selbst verläuft entlang der Sheik Zayed Road, bis er sie schneidet – visuell mit einem beleuchteten Wasserfall markiert."
+
+      - id: two-fourth-poi
+        img: img4
+        title: Museum of the Future
+        description: "Hier in Dubai wird die Zukunft geträumt, geschaffen und stolz präsentiert. Gutes Beispiel ist das Zukunftsmuseum, dessen Eröffnung für 2020 vorgesehen ist, das aber längst die Medien weltweit gepackt hat. Seine futuristische Form ähnelt einer Ellipse, die Bauweise ist teils inspiriert von der DNA-Doppelhelix, die Realisierung nur aufgrund der allerneuesten Technologien möglich. Und das Innenleben? Statt Kultur-Zeugnisse des Vergangenen auszustellen, wagt das Museum einen Blick nach vorne und stellt Fragen zu Robotern und A.I. und zur Beziehung zwischen Mensch und Maschine."
+
+
+
+################################################################################
+
+
+
+- id: four
+  title: "Abenteuer"
+  nav-title: Abenteuer
+  description: "Nur wenige Stunden Fahrt von Edmonton entfernt können Sie im Jasper National Park auf 11.000 km² die Ruhe und Weite der kanadischen Wildnis und die erhabene Schönheit der Rocky Mountains erleben: Grizzlys, Elche und Wölfe streifen durch einsame Wälder, der gigantische Athabasca Gletscher erstreckt sich auf 6 km² und im strahlend blauen Wasser des Maligne Lake spiegelt sich das inzwischen weltberühmte Spirit Island."
+  link: "http://bit.ly/2sgm5SB"
+
+  pois:
+    items:
+
+      - id: one
+        img: img1
+        title: Hatta Gebirge
+        description: "Auch abseits der Pisten des Marmot Basin können Sie die ganze sechs Monate lange Wintersaison im Nationalpark nutzen, um die kanadische Natur in ihrer weißen Pracht zu erleben. Zu den Klassikern zählen Schneeschuhwandern, Ski-Langlauf und Schlittschuhlaufen. Doch das wahre Kanada-Abenteuer erwartet Sie hinter bis zu zwölf Huskys gespannt, wo Sie mit bis zu 40 km/h durch den Schnee rasen oder in tief verschneiten Canyons, wo Sie mit Pickel und Steigeisen an gefrorenen Wasserfällen emporklettern können."
+
+      - id: two-second-poi
+        img: img2
+        title: Wüste
+        description: "Früher ein Handelsposten der Hudson’s Bay Company, ist das Bergdorf Jasper heute für viele Abenteurer und Naturliebhaber der Ausgangspunkt für ihre Entdeckungstouren im Nationalpark. In luxuriösen Chalets und rustikalen Blockhütten spüren Sie auf 1062 m Höhe den unvergleichlichen Charme der Rockies. Entlang der Patricia Street und des Connaught Drive finden Sie alles, was Sie für Ihre Ausflüge benötigen, während es neben Cafes und Bars in Downtown auch das eine oder andere Souvenir zu kaufen gibt."
+
+      - id: two-third-poi
+        img: img3
+        title: Erlebnis & Wasserparks
+        description: "Während der Maligne Canyon Naturfreunde im Sommer mit seiner Pflanzenwelt und seltenen Vögeln begeistert, verzaubern im Winter gefrorene Wasserfälle mit bizarren Formen und faszinierenden Lichtspielen. Lassen Sie sich von einem erfahrenen Guide über gewundene Pfade in die tiefe Schlucht hinab und durch die steilen Felswände führen, klettern Sie mit professioneller Ausrüstung an den wunderbar schimmernden, vereisten Wassermassen empor oder lauschen Sie einfach dem Knacken des Schnees unter Ihren Füßen, das von den massiven Felsen wiederhallt."
+
+      - id: two-fourth-poi
+        img: img4
+        title: "Shoppingabenteuer: The Pointe, Dubai Mall"
+        description: "Richtige Dunkelheit kennen die wenigsten von uns. Im Dark Sky Preserve können Sie sie allerdings noch ungestört von künstlichen Lichtquellen erleben: Es ist das größte und vielleicht auch schönste Lichtschutzgebiet der Welt. Hier können Sie den Sternenhimmel und mit etwas Glück das Nordlicht besser sehen, als irgendwo sonst. Nach Sonnenuntergang entfalten malerische Orte wie Pyramid Island, der Maligne Canyon, Old Fort Point oder der Medicine Lake erst ihren vollen Zauber."
+
+      - id: two-fourth-poi
+        img: img5
+        title: Expo 2020
+        description: "Richtige Dunkelheit kennen die wenigsten von uns. Im Dark Sky Preserve können Sie sie allerdings noch ungestört von künstlichen Lichtquellen erleben: Es ist das größte und vielleicht auch schönste Lichtschutzgebiet der Welt. Hier können Sie den Sternenhimmel und mit etwas Glück das Nordlicht besser sehen, als irgendwo sonst. Nach Sonnenuntergang entfalten malerische Orte wie Pyramid Island, der Maligne Canyon, Old Fort Point oder der Medicine Lake erst ihren vollen Zauber."
+
+
+
+################################################################################

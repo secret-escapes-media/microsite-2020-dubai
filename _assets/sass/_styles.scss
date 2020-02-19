@@ -1,0 +1,58 @@
+// general styles for the project that wouldn't be a reuseable component
+
+
+/* ==========================================================================
+   Divider
+   ========================================================================== */
+
+
+
+.bv-divider::after {
+  font-family: $serif3;
+  content: ('_..._');
+  display: block;
+  color: $white;
+  font-size: $s14;
+  letter-spacing: 1px;
+  margin: -240px 0 -2px 2px;
+}
+
+.bv-title-divider::after {
+  font-family: $serif3;
+  content: ('_..._');
+  display: block;
+  font-size: $s9;
+  color: $bv-blue;
+  letter-spacing: 1px;
+  margin: -20px 0 -10px;
+}
+
+
+
+/* ==========================================================================
+   Parallax & Backgrounds
+   ========================================================================== */
+
+.bv-parallax{
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+.bv-remove-bg{
+  background-image: none!important;
+}
+
+.bv-mob-hide {
+  display: none;
+}
+
+.bv-parallax{
+  background-attachment: scroll;
+  background-size: cover;
+  }
+
+}
