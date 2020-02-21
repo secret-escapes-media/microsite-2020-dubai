@@ -3,13 +3,13 @@ layout: single-page
 id: overview
 nav: true
 nav-order: 1
-title: Lorem ipsum
+title: Eine Stadt für jede Saison
 
 banner:
   title:  Dubai
-  title-sup: Lorem ipsum
+  title-sup: Eine Stadt für jede Saison
 
 
-intro-title: "Lorem ipsum"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+intro-title: #
+description: "Wenn man von Luxus spricht, denken viele als Erstes an Dubai. Die Hauptstadt des gleichnamigen Emirats ist globaler Vorreiter, wenn es um Architektur, Shopping oder Komfort der höchsten Klasse geht. Finden Sie heraus, wo Ihr Lieblingsstrand ist, shoppen Sie sich durch die Weltgeschichte und wagen Sie bei der Expo 2020 einen Blick in die Welt von&nbsp;morgen."
 ---

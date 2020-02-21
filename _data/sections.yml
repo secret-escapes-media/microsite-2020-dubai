@@ -11,18 +11,18 @@
         title: La Mer
         description: "Zwischen Pearl Jumeirah und Jumeirah Bay erstreckt sich seit Herbst 2017 das Strand- und Vergnügungsareal La Mer. Traumhafte Aussicht auf die Skyline Dubais wird vom DIY-Design der Anlage kontrastiert, ein urbaner Spielplatz mit Fokus auf Nachhaltigkeit. Familien werden  mit dem Hawa Hawa Trampolin und dem Laguna Waterpark bestens bedient, Genießer finden allerlei Spezialitäten um sich durchzuprobieren (wie das HQ 459 mit ganztägigem Frühstück). Selfie nötig? Dann auf zu einem der Pop Art-inspirierten Graffitis und finden Sie Ihr Instagram-Motiv. "
 
-      - id: one-fourth-poi
-        img: img4
+      - id: one-second-poi
+        img: img2
         title: "Für Puristen: Black Palace Beach"
         description: "Weniger Schnickschnack, mehr Strand. Ob Sie dem Spiel der Wellen zuschauen, sich in Urlaubslektüre vertiefen oder auf die Palmeninsel Jumeirah und den Burj Al Arab in der Ferne blicken wollen, Sie werden am Black Palace Beach recht ungestört sein. Zugleich ist der versteckte Strand perfekt für Wasserfreunde mit Selbstversorgungs-Zug: hier stören keine Restaurants oder Geschäfte Ihre Beach-Meditation, dafür müssen Sie Ihren eigenen Sonnenschirm & Co. mitbringen. Ein fairer Deal, wenn die Belohnung dafür so ein pures Sand- und Meervergnügen ist."
 
-      - id: one-second-poi
-        img: img2
+      - id: one-third-poi
+        img: img3
         title: "Für Sonnenanbeter: Sunset Beach"
         description: "Der Ort für unvergessliche Sundowner ist Sunset Beach, auch bekannt als Umm Suqeim Beach. Hier sind Sie in direkter Nachbarschaft des Burj Al Arab, was besonders Abends für beeindruckende Fotomotive sorgt. Tagsüber können Sie sich einfach der Sonne und dem Roten Meer hingeben oder sich von der Strandbibliothek einen spannenden BAnd leihen. Besonderheit: Umm Suqeim Beach ist einer der wenigen Orte in Dubai, wo Nachtschwimmen erlaubt ist (bis Mitternacht)."
 
-      - id: one-third-poi
-        img: img3
+      - id: one-fourth-poi
+        img: img4
         title: "Surfin’ U.A.E: Kite Beach"
         description: "Sein Name verrät es schon: Kite Beach ist ein Nirwana für Outdoor-Fanatiker. Kite Surfing, Stehpaddeln, Kajak fahren, für alle diese Aktivitäten ist der Spot die erste Adresse, vor allem wenn der Wind am Nachmittag zunimmt. Auch an Land lockt der sportliche Zeitvertreib bei Beachvolleyball – oder Sie nutzen die 14 km lange Joggingstrecke, um sich fit zu halten. Schauen Sie den Skatern im größten Skatepark der Vereinigten Arabischen Emirate bei Ihren Ollies zu und machen Sie sich nach so viel Action zum Café Salt, um den Strandtag mit einem Burger zu krönen."
 
@@ -102,9 +102,9 @@
 
 
 - id: four
-  title: "Abenteuer"
+  title: "Abenteuer & Aktivitäten"
   nav-title: Abenteuer
-  description: "Nur wenige Stunden Fahrt von Edmonton entfernt können Sie im Jasper National Park auf 11.000 km² die Ruhe und Weite der kanadischen Wildnis und die erhabene Schönheit der Rocky Mountains erleben: Grizzlys, Elche und Wölfe streifen durch einsame Wälder, der gigantische Athabasca Gletscher erstreckt sich auf 6 km² und im strahlend blauen Wasser des Maligne Lake spiegelt sich das inzwischen weltberühmte Spirit Island."
+  description: "Keine Langeweile: dafür sorgen in Dubai zahlreiche Wasserparks und Malls. Wenn Sie dann die City hinter sich lassen, finden Sie sich in einer Welt voller Dünen und Berge, die ebenso faszineirend ist."
   link: "http://bit.ly/2sgm5SB"
 
   pois:
@@ -112,28 +112,28 @@
 
       - id: one
         img: img1
-        title: Hatta Gebirge
-        description: "Auch abseits der Pisten des Marmot Basin können Sie die ganze sechs Monate lange Wintersaison im Nationalpark nutzen, um die kanadische Natur in ihrer weißen Pracht zu erleben. Zu den Klassikern zählen Schneeschuhwandern, Ski-Langlauf und Schlittschuhlaufen. Doch das wahre Kanada-Abenteuer erwartet Sie hinter bis zu zwölf Huskys gespannt, wo Sie mit bis zu 40 km/h durch den Schnee rasen oder in tief verschneiten Canyons, wo Sie mit Pickel und Steigeisen an gefrorenen Wasserfällen emporklettern können."
+        title: Hatta & Hadschar-Gebirge
+        description: "Rund 100 Kilometer gen Süden liegt Dubais Exklave Hatta im Hadschar-Gebirge. Das Trendziel ist eine beliebte Outdoor-Destination, die sich auch für Ökotourismus lohnt. Ob als Tagesausflug oder längere Auszeit von der Stadt, in beiden Fällen beeindruckt Hatta mit natürlicher Schönheit und Kulturstätten, die per Bike, auf dem Rücken eines Kamels oder beim Wandern erkundet sein wollen. Zum Übernachten bieten sich mehrer Optionen zwischen 4-Sterne-Hotel oder Glamping an, in jedem Fall sollten Sie nicht den sternenklaren Nachthimmel verpassen."
 
       - id: two-second-poi
         img: img2
-        title: Wüste
-        description: "Früher ein Handelsposten der Hudson’s Bay Company, ist das Bergdorf Jasper heute für viele Abenteurer und Naturliebhaber der Ausgangspunkt für ihre Entdeckungstouren im Nationalpark. In luxuriösen Chalets und rustikalen Blockhütten spüren Sie auf 1062 m Höhe den unvergleichlichen Charme der Rockies. Entlang der Patricia Street und des Connaught Drive finden Sie alles, was Sie für Ihre Ausflüge benötigen, während es neben Cafes und Bars in Downtown auch das eine oder andere Souvenir zu kaufen gibt."
+        title: Wüstenspaß
+        description: "Es ist wohl kein Dubai-Besuch komplett ohne sie: die Wüste Rub al-Chali. Bezwingen Sie ihre Sanddünen klassisch im Geländewagen – oder in einem Vintage-Landrover – und kombinieren Sie den Ausflug mit einem Emirati-Frühstück oder des Nachts mit einer Astronomie-Tour. Unterwegs grüßen Tiere wie die Arabische Oryx. Aber es gibt auch adrenalingeladene Abenteuer: wie wäre es, die Sandlandschaft per Quad zu durchfahren oder Sandboarding an einer Düne zu üben?"
 
       - id: two-third-poi
         img: img3
-        title: Erlebnis & Wasserparks
-        description: "Während der Maligne Canyon Naturfreunde im Sommer mit seiner Pflanzenwelt und seltenen Vögeln begeistert, verzaubern im Winter gefrorene Wasserfälle mit bizarren Formen und faszinierenden Lichtspielen. Lassen Sie sich von einem erfahrenen Guide über gewundene Pfade in die tiefe Schlucht hinab und durch die steilen Felswände führen, klettern Sie mit professioneller Ausrüstung an den wunderbar schimmernden, vereisten Wassermassen empor oder lauschen Sie einfach dem Knacken des Schnees unter Ihren Füßen, das von den massiven Felsen wiederhallt."
+        title: Wasserparks
+        description: "Vielleicht liegt es gerade an der Wüste, weshalb Dubai so viel für Wasserparks übrig hat. Zumindest scheint, dass man einen ganzen Urlaub lang von Rutsche zu Rutsche ziehen könnte. Angefangen beim Aquaventure Wasserpark, der Adrenalinkicks mit Dubai-Maximalismus mischt, über den Wild Wadi Wasserpark, der schon seit 1999 Wasserratten anzieht, zu den Hindernisparcours im AquaFun. Lieben Sie Lego? Auch dazu gibt es einen Park."
 
       - id: two-fourth-poi
         img: img4
         title: "Shoppingabenteuer: The Pointe, Dubai Mall"
-        description: "Richtige Dunkelheit kennen die wenigsten von uns. Im Dark Sky Preserve können Sie sie allerdings noch ungestört von künstlichen Lichtquellen erleben: Es ist das größte und vielleicht auch schönste Lichtschutzgebiet der Welt. Hier können Sie den Sternenhimmel und mit etwas Glück das Nordlicht besser sehen, als irgendwo sonst. Nach Sonnenuntergang entfalten malerische Orte wie Pyramid Island, der Maligne Canyon, Old Fort Point oder der Medicine Lake erst ihren vollen Zauber."
+        description: "Finden Sie sich zurecht im Wald der Marken? Die Dubai Mall erstreckt sich auf einer Fläche von 200 Fußballfeldern mit über 1.200 Geschäften und hunderten Optionen für Hunger und Durst. Es warten Gucci & Valentino auf der Fashion Avenue, Hai und Rochen im Dubai Aquarium, Steak & Trüffel in der Galerie Lafayette. Etwas übersichtlicher ist die neue Flaniermeile The Pointe auf der Palm Jumeirah-Insel. Auch hier ist bestens für die Markenjagd gesorgt, gefolgt von Unterhaltung (wie im Dine-In-Kino) und Snapshots vor dem Hintergrund der Bucht des Luxushotels Atlantis, The Palm."
 
       - id: two-fourth-poi
         img: img5
-        title: Expo 2020
-        description: "Richtige Dunkelheit kennen die wenigsten von uns. Im Dark Sky Preserve können Sie sie allerdings noch ungestört von künstlichen Lichtquellen erleben: Es ist das größte und vielleicht auch schönste Lichtschutzgebiet der Welt. Hier können Sie den Sternenhimmel und mit etwas Glück das Nordlicht besser sehen, als irgendwo sonst. Nach Sonnenuntergang entfalten malerische Orte wie Pyramid Island, der Maligne Canyon, Old Fort Point oder der Medicine Lake erst ihren vollen Zauber."
+        title: Dubai Expo 2020
+        description: "Die Zukunft ist hier. Vom 20. Oktober 2020 bis 10. April 2021 richten sich alle Augen nach Dubai, bei der Expo 2020. Ein halbes Jahr voller Weltklasse-Architektur, Highlights für Gaumen und Auge und Performances, die Sie so nie wieder sehen werden. "
 
 
 

@@ -11,11 +11,9 @@
 
     {% include page/banner.html %}
 
-    <div class="vpad--xxl bv-parallax" style="background-image: url('{{site.img}}/icons/bg-pattern.jpg'); ">
+    <div class="vpad--xl bv-parallax " style="background-image: url('{{site.img}}/icons/bg-pattern-transp.png'); ">
       <div class="container">
         <div class="width width--lg text--center text--xxl">
-        <div class="title title--sm text--upper">{{page.intro-title}}</div>
-          <div class="space--md"></div>
           <p>{{page.description}}</p>
           <div class="space--md"></div>
           {% if page.primary-cta %}
@@ -32,25 +30,24 @@
 
       <!-- loops through section file for page content -->
       {% for section in site.data.sections %}
-    <div id="{{section.id}}" class="js-nav-section bg__fixed text--white">
-      <div class="space--xxl"></div>
-      <div class="bg__fixed-wrap">
-        <div class="bg__fixed-img bv-parallax" style="background-image: url('{{site.img}}/content/{{section.id}}/{{section.id}}.jpg');"></div>
-      </div>
-      <div class="container text--center ">
-          <div class="width width--lg">
-            <div class="space--xl"></div>
-            <div class="title title--xl text--upper">{{section.title}}</div>
-            <div class="space--md"></div>
-            <p class="text--xxl">{{section.description}}</p>
-            <div class="space--xxxl"></div>
-          </div>
+    <div id="{{section.id}}" class="js-nav-section text--white">
+
+      <div class=" bv-parallax" style="background-image: url('{{site.img}}/content/{{section.id}}/hero.jpg');">
+        <div class="container text--center ">
+            <div class="width width--lg">
+              <div class="space--xxxl"></div>
+              <div class="title title--xl text--upper">{{section.title}}</div>
+              <div class="space--md"></div>
+              <p class="text--xxl">{{section.description}}</p>
+              <div class="space--xxxl"></div>
+            </div>
+        </div>
       </div>
     </div>
 
   <div class="space--lg"></div>
-    <div class="bg--white bv-parallax bv-remove-bg" style="background-image: url('{{site.img}}/content/{{section.id}}/{{section.id}}.jpg');">
-      <div class="container bg--white" >
+    <div class="bg--white bv-parallax bv-remove-bg" style="background-image: url('{{site.img}}/content/{{section.id}}/hero.jpg');">
+      <div class="container bg--white shadow" >
         <div class="row row--md-6-6 ">
           {% for poi in section.pois.items %}
             <div class="col">
@@ -63,7 +60,7 @@
             </div>
           {% endfor %}
         </div>
-      <div class="space--lg"></div>
+      <div class="space--xl"></div>
     </div>
 </div>
 
@@ -78,19 +75,17 @@
           <div id="five" class="js-nav-section">
             <div class="space--xl"></div>
             <div class="title title--xxl text--center">Angebote</div>
-            <div class="space--xs"></div>
+            <div class="space--lg"></div>
           </div>
       </div>
 
-        {% include offer/all-offers.html %}
+      {% include offer/all-offers.html %}
 
-    <div class="space--xxl bg--light"></div>
+      <div class="space--xxl bg--light"></div>
 
       {% include page/promo-offers.html %}
 
       {% include page/footer.html %}
-
-
 
   </body>
 

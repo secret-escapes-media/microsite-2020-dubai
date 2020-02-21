@@ -4,7 +4,7 @@
   // custom content headline
   font-family: $serif;
   line-height: 1.1;
-  
+
   &--xxxl   { font-size: $s8; }
   &--xxl    { font-size: $s7; }
   &--xl     { font-size: $s6; }
@@ -30,7 +30,7 @@
 .sub-title {
   // custom content headline
   font-family: $sans;
-  font-style: italic;
+  //font-style: italic;
   line-height: .3;
   font-size: $s2; // default size
   &--lg     { font-size: $s4; }
