@@ -1,49 +1,91 @@
-- title: Spectacular Oslo & Bergen break with optional fjord tour
-  id: spectacular-oslo-bergen-break-with-optional-fjord-tour
-  location: Scandic St. Olavs plass & Clarion Hotel Admiral, Norway
-  description: A fantastic four-night trip to Norway's Oslo and Bergen, with one of the world's most scenic train journeys between the two cities - including flights and an optional fjord tour
+- title: Die Highlights von Dubai
+  location: Städtereise, Dubai, Vereinigte Arabische Emirate
+  description: Erleben Sie einen einzigartigen Urlaub in Dubai mit einem Aufenthalt in einem 4- oder 5-Sterne-Hotel , Frühstück, optionalen Ausflügen sowie Flügen
   price: 459
-  price-description: per person for 4 nights
-  saved: 37
-  expires: 2020/04/14
-  link: https://www.secretescapes.com/spectacular-oslo-and-bergen-break-with-optional-fjord-tour-scandic-st-olavs-plass-and-clarion-hotel-admiral-norway-2/sale?gce_urg=0&utm_source=SE&utm_campaign=7_Norway_201703&utm_medium=Hub
+  price-description: pro Zimmer pro Nacht
+  saved: #
+  expires: 2020/03/09
+  image: https://secretescapes-web.imgix.net/webRedirects/119/6fbfafef_a126_490a_b441_512b0c62ef0b_large.jpg
+  link: https://www.secretescapes.de/elegante-tage-im-glitzernden-dubai-radisson-blu-hotel-dubai-waterfront-dubai-vereinigte-arabische-emirate2/sale
 
-- title: Farris Bad
-  id: farris-bad
-  location: Larvik, Norway
-  description: Upscale beachfront stay at the first Nordic balneological health resort, with a supersized spa
-  price: 214
-  price-description: per room per night
-  saved: 33
-  expires: 2020/04/20
-  link: https://www.secretescapes.com/farris-bad-larvik-norway/sale?gce_urg=1&gce_scp=0&utm_source=SE&utm_medium=Hub&utm_campaign=12_Norway_201703
+- title: Elegante Tage im glitzernden Dubai
+  location: Radisson Blu Hotel Dubai Waterfront, Dubai, Vereinigte Arabische Emirate
+  description: Glamour- und City-Vibes in der Metropole der Superlative – inkl. Frühstück oder Halbpension
+  price: 74
+  price-description: pro Zimmer pro Nacht
+  saved: 60
+  expires: 2020/03/09
+  image: https://secretescapes-web.imgix.net/sales/110388/8fe5a3f8_4c81_4113_a286_49c839005d71.jpg
+  link: https://www.secretescapes.de/elegante-tage-im-glitzernden-dubai-radisson-blu-hotel-dubai-waterfront-dubai-vereinigte-arabische-emirate2/sale
 
-- title: First Hotel Marin
-  id: first-hotel-marin
-  location: Bergen, Norway
-  description: A unique stay in the centre of picturesque Bergen, just a stone's throw from the harbour
-  price: 48
-  price-description: per room per night
-  saved: 43
-  expires: 2020/04/20
-  link: https://www.secretescapes.com/first-hotel-marin-bergen-norway/sale?gce_scp=1&utm_source=SE&utm_medium=Hub&utm_campaign=13_Norway_201704
+- title: Spektakulärer 5*-Luxus in Dubai
+  location: Dubai, Vereinigte Arabische Emirate
+  description: 5*-Cityhotel & legendäres Burj Al Arab – inkl. Emirates-Flügen, Rail&Fly & Transfers
+  price: 1.399
+  price-description: pro Person. basierend auf 2 Personen für 6 Nächte
+  saved: 14
+  expires: 2020/03/09
+  image: https://secretescapes-web.imgix.net/sales/29129/9e804ae6_2684_4140_831c_11573e554abb.jpg
+  link: https://www.secretescapes.de/spektakulaerer-5-star-luxus-in-dubai-dubai-vereinigte-arabische-emirate-de/sale
 
-- title: Magic Hotel
-  id: magic-hotel
-  location: Bergen, Norway
-  description: A brand-new hip hotel in the centre of Bergen, designed by a top New York designer
-  price: 73
-  price-description: per room per night
-  saved: 55
-  expires: 2020/04/20
-  link: https://www.secretescapes.com/magic-hotel-bergen-norway/sale?gce_hpf=1&utm_source=SE&utm_medium=Hub&utm_campaign=14_Norway_201704
+- title: Am Ufer des Dubai Creek
+  location: Canopy by Hilton Dubai Al Seef, Dubai, Vereinigte Arabische Emirate
+  description: 6 Nächte am Puls Dubais – inkl. Flügen, Rail&Fly, Frühstück o. Halbpension & City-Tour
+  price: 444
+  price-description: pro Person. basierend auf 2 Personen für 6 Nächte
+  saved: 45
+  tag: flights
+  expires: 2020/03/09
+  image: https://secretescapes-web.imgix.net/sales/110738/a25e8da2_6f1e_47f6_827c_7cc9a6f64483.jpg?auto=format,compress
+  link: https://www.secretescapes.de/am-ufer-des-dubai-creek-canopy-by-hilton-dubai-al-seef-dubai-vereinigte-arabische-emirate/sale
 
-- title: Sola Strand Hotel
-  id: sola-strand-hotel
-  location: Sola, Norway
-  description: Discover one of the world's sixth best beaches on Norway's gorgeous coast, with breakfast and more
-  price: 79
-  price-description: per room per night
-  saved: 47
-  expires: 2020/04/20
-  link: https://www.secretescapes.com/sola-strand-hotel-sola-norway/sale?gce_hpf=1&utm_source=SE&utm_medium=Hub&utm_campaign=15_Norway_201704
+- title: 5*-Oase in Dubai
+  location: Mövenpick Hotel Jumeirah Beach, Dubai, Vereinigte Arabische Emirate
+  description: 5*-Strandhotel im glamourösen Dubai – inkl. Halbpension oder All-inclusive
+  price: 86
+  price-description: pro Zimmer pro Nacht
+  saved: 51
+  expires: 2020/03/16
+  image: https://secretescapes-web.imgix.net/sales/13307/c584e1cc_e8d5_4515_b106_b7f39553237f.jpg
+  link: https://www.secretescapes.de/5-star-oase-in-dubai-movenpick-hotel-jumeirah-beach-dubai-vereinigte-arabische-emirate/sale
+
+- title: Orientalische Opulenz in Dubai
+  location: Grand Millennium Dubai, Vereinigte Arabische Emirate
+  description: Inkl. Frühstück od. Halbpension, frühem Check-in, spätem Check-out, Privatstrand-Zugang & Extras
+  price: 62
+  price-description: pro Zimmer pro Nacht
+  saved: 72
+  expires: 2020/03/16
+  image: https://secretescapes-web.imgix.net/sales/84851/7ec76ea4_b1ed_47f0_8a23_c176e0ee5475.jpg
+  link: https://www.secretescapes.de/orientalische-opulenz-in-dubai-grand-millennium-dubai-vereinigte-arabische-emirate-0/sale
+
+- title: Arabischer Luxus im Strandhotel in Dubai
+  location: Caesars Palace Bluewaters Dubai, Vereinigte Arabische Emirate
+  description: Strandauszeit in der Wüstenmetropole – inkl. Flügen, Transfers, Halbpension & City-Tour
+  price: 899
+  price-description: pro Person basierend auf 2 Personen für 5 Nächte
+  saved: 30
+  tag: flights
+  expires: 2020/03/16
+  image: https://secretescapes-web.imgix.net/sales/111426/150745f7_a6d3_4af8_9626_afda97c2026e.jpg
+  link: https://www.secretescapes.de/arabischer-luxus-im-strandhotel-in-dubai-caesars-palace-bluewaters-dubai-vereinigte-arabische-emirate/sale
+
+- title: Arabisches Abenteuer mit Stil
+  location: Conrad Dubai, Vereinigte Arabische Emirate
+  description: Dubai mit Meerblick – inkl. Frühstück oder Halbpension, Spa- & Restaurant-Ermäßigung
+  price: 100
+  price-description: pro Zimmer pro Nacht
+  saved: 45
+  expires: 2020/03/09
+  image: https://secretescapes-web.imgix.net/sales/104719/90b2f3a1_443e_4c9e_918e_962fb43321c7.jpg
+  link: https://www.secretescapes.de/arabisches-abenteuer-mit-stil-conrad-dubai-vereinigte-arabische-emirate-0/sale
+
+- title: Orientalische Palastpracht mit Edel-Spa
+  location: Habtoor Palace, Dubai, Vereinigte Arabische Emirate
+  description: Inkl. Frühstück, Ermäßigungen & Zugang zum Strand des Waldorf Astoria The Palm
+  price: 141
+  price-description: pro Zimmer pro Nacht
+  saved: 54
+  expires: 2020/03/09
+  image: https://secretescapes-web.imgix.net/sales/110900/926aa4b5_face_4853_bc3f_a75c6e84ac46.jpg
+  link: https://www.secretescapes.de/orientalische-palastpracht-mit-spa-habtoor-palace-dubai-vereinigte-arabische-emirate/sale

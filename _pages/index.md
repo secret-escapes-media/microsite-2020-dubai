@@ -3,7 +3,7 @@ layout: single-page
 id: overview
 nav: true
 nav-order: 1
-title: Eine Stadt für jede Saison
+title: Hier ist immer Saison
 
 banner:
   title:  Dubai
@@ -11,5 +11,5 @@ banner:
 
 
 intro-title: #
-description: "Wenn man von Luxus spricht, denken viele als Erstes an Dubai. Die Hauptstadt des gleichnamigen Emirats ist globaler Vorreiter, wenn es um Architektur, Shopping oder Komfort der höchsten Klasse geht. Finden Sie heraus, wo Ihr Lieblingsstrand ist, shoppen Sie sich durch die Weltgeschichte und wagen Sie bei der Expo 2020 einen Blick in die Welt von&nbsp;morgen."
+description: "Die Hauptstadt des gleichnamigen Emirats ist globaler Vorreiter, wenn es um Architektur, Shopping oder Komfort der höchsten Klasse geht. Finden Sie heraus, wo Ihr Lieblingsstrand ist, shoppen Sie sich durch die Weltgeschichte und wagen Sie bei der Expo 2020 einen Blick in die Welt von morgen."
 ---

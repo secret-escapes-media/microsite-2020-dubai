@@ -1,7 +1,7 @@
 - id: one
   title: Strandvielfalt in&nbsp;Dubai
-  nav-title: Traumstände
-  description: "Dubai als Stranddestination? Ja, das Luxus-Emirat bietet für Wassersportler, Familien und Freunde der Zurückgezogenheit immer den passenden Streifen Sand am Roten Meer."
+  nav-title: Traumstrände
+  description: "Dubai als Stranddestination? Ja, das Emirat bietet für Wassersportler, Familien und Freunde der Zurückgezogenheit immer den passenden Streifen Sand am Arabischen Golf."
 
   pois:
     items:
@@ -19,12 +19,12 @@
       - id: one-third-poi
         img: img3
         title: "Für Sonnenanbeter: Sunset Beach"
-        description: "Der Ort für unvergessliche Sundowner ist Sunset Beach, auch bekannt als Umm Suqeim Beach. Hier sind Sie in direkter Nachbarschaft des Burj Al Arab, was besonders Abends für beeindruckende Fotomotive sorgt. Tagsüber können Sie sich einfach der Sonne und dem Roten Meer hingeben oder sich von der Strandbibliothek einen spannenden BAnd leihen. Besonderheit: Umm Suqeim Beach ist einer der wenigen Orte in Dubai, wo Nachtschwimmen erlaubt ist (bis Mitternacht)."
+        description: "Der Ort für unvergessliche Sundowner ist Sunset Beach, auch bekannt als Umm Suqeim Beach. Hier sind Sie in direkter Nachbarschaft des Burj Al Arab, was besonders abends für beeindruckende Fotomotive sorgt. Tagsüber können Sie sich einfach der Sonne und dem Arabischen Golf hingeben oder sich von der Strandbibliothek einen spannenden Band leihen. Besonderheit: Umm Suqeim Beach ist einer der wenigen Orte in Dubai, wo Nachtschwimmen erlaubt ist (bis Mitternacht)."
 
       - id: one-fourth-poi
         img: img4
         title: "Surfin’ U.A.E: Kite Beach"
-        description: "Sein Name verrät es schon: Kite Beach ist ein Nirwana für Outdoor-Fanatiker. Kite Surfing, Stehpaddeln, Kajak fahren, für alle diese Aktivitäten ist der Spot die erste Adresse, vor allem wenn der Wind am Nachmittag zunimmt. Auch an Land lockt der sportliche Zeitvertreib bei Beachvolleyball – oder Sie nutzen die 14 km lange Joggingstrecke, um sich fit zu halten. Schauen Sie den Skatern im größten Skatepark der Vereinigten Arabischen Emirate bei Ihren Ollies zu und machen Sie sich nach so viel Action zum Café Salt, um den Strandtag mit einem Burger zu krönen."
+        description: "Sein Name verrät es schon: Kite Beach ist ein Nirwana für Outdoor-Fanatiker. Kite Surfing, Stehpaddeln, Kajak fahren, für alle diese Aktivitäten ist der Spot die erste Adresse, vor allem wenn der Wind am Nachmittag zunimmt. Auch an Land lockt sportlicher Zeitvertreib bei Beachvolleyball – oder Sie nutzen die 14 km lange Joggingstrecke, um sich fit zu halten. Schauen Sie den Skatern im größten Skatepark der Vereinigten Arabischen Emirate bei Ihren Ollies zu und machen Sie sich nach so viel Action auf zum Café Salt, um den Strandtag mit Burgern zu krönen."
 
 
 
@@ -44,22 +44,22 @@
       - id: one
         img: img1
         title: Al Fahidi & Al Seef
-        description: "Denkbar der größte Gegensatz zu seinen Wolkenkratzern ist der historische Bezirk von Al Fahidi in Bur Dubai. Dank seiner strategischen Lage am Dubai Creek ehemals ein eminent wichtiger Stadtteil, ist Al Fahidi von traditionellen Stadthäusern und Forts mit Windtürmen geprägt. Einige Straßen weiter schließt sich Al Seef an, dass Tradition mit Moderne fusioniert. Besuchen Sie den schwimmenden Markt mit regionalem Kunsthandwerk und decken Sie sich ein bei Designern aus Arabien und dem Rest der Welt."
+        description: "Der denkbar größte Gegensatz den Wolkenkratzern Dubais ist der historische Bezirk Al Fahidi in Bur Dubai. Dank seiner strategischen Lage am Dubai Creek ist Al Fahidi, ein ehemals eminent wichtiger Stadtteil, von traditionellen Windturmhäusern und engen Gassen geprägt. In unmittelbarer Nähe schließt sich das neugestaltete Al Seef an, wo Tradition und Moderne fusionieren. Besuchen Sie den schwimmenden Markt mit regionalem Kunsthandwerk und decken Sie sich ein bei Designern aus Arabien und dem Rest der Welt."
 
       - id: two-second-poi
         img: img2
         title: Traditionelle Souks
-        description: "Im Herzen des Emirats, am Dubai Creek wartet ein klassisch arabisches Erlebnis: die Souks (Märkte bzw Bazars). Reiben Sie sich ruhig die Augen vor all der Pracht am Goldsouk – wenn Sie Schmuck kaufen möchten, dann hier, denn alle Edelmetalle und Edelsteine sind auf Authentizität getestet. (Hobby-)Köche dürfen sich auf die Aromen am Gewürzsouk freuen. Haben es Ihnen Düfte angetan? Der Parfüm-Souk hat neben wohlduftenden Flakons auch ätherische Öle und Räucherstäbchen. Kombinieren Sie Ihren neuesten Duft dann mit Seide von Textil-Souk und die Verwandlung ist vollendet."
+        description: "Im Herzen des Emirats, am Dubai Creek, wartet ein klassisch arabisches Erlebnis: die Souks (Märkte bzw. Bazars). Prachtvolle Auslagen an Schmuck und Geschmeide im Gold-Souk - Sie werden sich die Augen reiben! (Hobby-)Köche dürfen sich auf die Aromen im Gewürzsouk freuen. Haben es Ihnen Düfte angetan? Der Parfüm-Souk hat neben wohlduftenden Flakons auch ätherische Öle und Räucherstäbchen. Kombinieren Sie Ihren neuesten Duft dann mit Seide vom Textil-Souk und die Verwandlung ist vollendet."
 
       - id: two-third-poi
         img: img3
         title: Etihad Museum
-        description: "Wie war das Leben in Dubai vor dem Zusammenschluss der sieben Emirate? Das Etihad Museum gibt auf 25.000 qm anschauliche Antworten dazu. Das Hauptaugenmerk des Museums liegt auf den Jahren zwischen 1968 und 1974, als das Land am Arabischen Golf seine Unabhängigkeit erlangte – und Langeweile und verstaubte Pädagogik sei in den interaktiven Pavillons ferne. Doch auch für die Ästhetik ist gesorgt: das überaus markant geschwungene Dach der Institution ist Werk der Kanadier Moriyama and Teshima."
+        description: "Wie war das Leben in Dubai vor dem Zusammenschluss der sieben Emirate? Das Etihad Museum gibt auf 25.000 qm anschauliche Antworten dazu. Das Hauptaugenmerk des Museums liegt auf den Jahren zwischen 1968 und 1974, als das Land am Arabischen Golf seine Unabhängigkeit erlangte. Langeweile und verstaubte Pädagogik sei in den interaktiven Pavillons fern, auch für die Ästhetik ist gesorgt. Das überaus markant geschwungene Dach der Institution ist Werk der Kanadier Moriyama & Teshima. "
 
       - id: two-fourth-poi
         img: img4
-        title: Al Quozt und Al Serkal Avenue
-        description: "Lagerhäuser zu Galerien, Fabriken zu Museen: Al Quoz und die Alserkal Avenue sind florierende Kunstviertel, die Seite an Seite koexistieren. Hier kommen Künstler und Schriftsteller im A4 Space zusammen, um sich auszutauschen und zu kollaborieren, in The Fridge finden Sie nicht etwa gekühlte Lebensmittel, sondern Konzerte oder Events und über 15 Galerien in der Alserkal Avenue promoten regionale und internationale Kunst. Nach so viel Geschichtsstunde in den anderen Stadtteilen eine gelungene Abwechslung."
+        title: Al Quoz und Alserkal Avenue
+        description: "Lagerhäuser zu Galerien, Fabriken zu Museen: Al Quoz und die Alserkal Avenue sind florierende Kunstviertel. Hier kommen Künstler und Schriftsteller im A4 Space zusammen, um sich auszutauschen und zu kollaborieren; in The Fridge finden Sie nicht etwa gekühlte Lebensmittel, sondern Konzerte oder Events und über 15 Galerien in der Alserkal Avenue promoten regionale und internationale Kunst. Nach so viel Geschichtsstunde in den anderen Stadtteilen eine gelungene Abwechslung."
 
 
 
@@ -78,17 +78,17 @@
       - id: one
         img: img1
         title: Dubai Frame
-        description: "Ist Dubai ein Bild für die Ewigkeit? Einen Bilderrahmen hat die metropole seit 2018 nun. Das Dubai Frame, natürlich der größte Rahmen seiner Art liegt an der spannenden Schnittstelle von Alt und Neu im Zabeel Park. Von unten können Sie Alt- oder Neustadt als fotogenen Bildausschnitt bewundern. Wenn Sie einen der beiden Vertikal-Türme besteigen, offenbart sich von der Verbindungsbrücke aus einer Höhe von 150 Metern ein spektakulärer Blick auf das Wüstenjuwel."
+        description: "Ist Dubai ein Bild für die Ewigkeit? Einen Bilderrahmen hat die Metropole zumindest seit 2018. Der Dubai Frame, als optische Schnittstelle zwischen altem Dubai am Creek und neuem Dubai entlang der Sheikh Zayed Road angelegt, steht im Zabeel Park. Aus 150m Höhe bieten sich tolle Fotomotive auf die Stadtteile Dubais. Und für das besondere Bauchkribbeln bietet der 90m lange Übergang teilweise einen Glasboden!"
 
       - id: two-second-poi
         img: img2
         title: Burj Khalifa, Fountains & Opera
-        description: "Das Wahrzeichen Dubais und höchste Gebäude der Welt reckt sich 828 Meter in den arabischen Himmel. Gleich daneben natürlich die größte Fontäne der Welt, die die Fountains of Bellagio in Las Vegas übertrifft. Vor der Dubai Mall beeindrucken tosende Wasserstrahlen im Takt zur Musik alle 30 Minuten Besucher und Einwohner zugleich. Hochkultur bietet die Dubai Opera nebenan, die das Dreiergespann komplettiert – und das mit einem Programm, das sich vor London oder New York nicht verstecken muss."
+        description: "Das Wahrzeichen Dubais reckt sich 828 Meter in den arabischen Himmel. Gleich daneben die Dubai Fountain - mit Ihren bis zu 150m hohen Wassersäulen eine der größten Fontänen der Welt. Vor der Dubai Mall beeindrucken tosende Wasserstrahlen im Takt zur Musik alle 30 Minuten Besucher und Einwohner zugleich. Das Dreiergespann komplettiert die benachbarte Dubai Opera, welche ein vielfältiges Programm bietet aus Opern, Musicals, Konzerten oder klassischen Tanzdarbietungen."
 
       - id: two-third-poi
         img: img3
-        title: Water Canal, Dubai Creek
-        description: "Wasser ist Leben, das der neue Water Canal der Wüstenstadt einhaucht. Die Wasserstraße verbindet auf 3,2 Kilometern Länge einen Ausläufer des Dubai Creek mit dem Arabischen Golf und verwandelt so einen Teil des Emirats in eine Insel. An seinen Ufern entstehen Lifestyle-Einrichtungen wie Hotels und Restaurants, in der Gegend um den Kanal sind drei weitere Stadtviertel geplant. Der Kanal selbst verläuft entlang der Sheik Zayed Road, bis er sie schneidet – visuell mit einem beleuchteten Wasserfall markiert."
+        title: Dubai Creek, Water Canal
+        description: "Der Dubai Creek ist nach wie vor die Lebensader dieser pulsierenden Wüstenstadt. Hölzerne Transportschiffe, sogenannte Dhows, bringen Waren aus den angrenzenden Ländern. Abras, kleine Wassertaxis, transportieren die Bewohner zwischen den Stadtteilen Bur Dubai und Deira. An den Ufern des neugeschaffenen Business Bay Canal und des 3,2 km langen Water Canal entstehen Lifestyle-Einrichtungen wie Hotels und Bars, Spazierwege und Parkanlagen. Der Schnittpunkt des Water Canal mit der Sheikh Zayed Road ist durch einen beleuchteten Wasserfall markiert. "
 
       - id: two-fourth-poi
         img: img4
@@ -104,26 +104,25 @@
 - id: four
   title: "Abenteuer & Aktivitäten"
   nav-title: Abenteuer
-  description: "Keine Langeweile: dafür sorgen in Dubai zahlreiche Wasserparks und Malls. Wenn Sie dann die City hinter sich lassen, finden Sie sich in einer Welt voller Dünen und Berge, die ebenso faszineirend ist."
-  link: "http://bit.ly/2sgm5SB"
+  description: "Keine Langeweile: dafür sorgen in Dubai zahlreiche Wasserparks und Malls. Und wenn Sie die City hinter sich lassen, finden Sie sich in einer Welt voller Dünen und Berge, die ebenso faszinierend ist."
 
   pois:
     items:
 
       - id: one
         img: img1
-        title: Hatta & Hadschar-Gebirge
-        description: "Rund 100 Kilometer gen Süden liegt Dubais Exklave Hatta im Hadschar-Gebirge. Das Trendziel ist eine beliebte Outdoor-Destination, die sich auch für Ökotourismus lohnt. Ob als Tagesausflug oder längere Auszeit von der Stadt, in beiden Fällen beeindruckt Hatta mit natürlicher Schönheit und Kulturstätten, die per Bike, auf dem Rücken eines Kamels oder beim Wandern erkundet sein wollen. Zum Übernachten bieten sich mehrer Optionen zwischen 4-Sterne-Hotel oder Glamping an, in jedem Fall sollten Sie nicht den sternenklaren Nachthimmel verpassen."
+        title: Hatta & Hajar-Gebirge
+        description: "Rund 100 Kilometer gen Süden liegt Dubais Exklave Hatta im Hajar-Gebirge. Das Trendziel ist eine beliebte Outdoor-Destination, die sich auch für Ökotourismus lohnt. Ob als Tagesausflug oder längere Auszeit von der Stadt, in beiden Fällen beeindruckt Hatta mit natürlicher Schönheit und Kulturstätten, die per Bike, auf dem Rücken eines Kamels oder beim Wandern erkundet sein wollen. Zum Übernachten bieten sich mehrer Optionen zwischen 4-Sterne-Hotel oder Glamping an, in jedem Fall sollten Sie nicht den sternenklaren Nachthimmel verpassen."
 
       - id: two-second-poi
         img: img2
         title: Wüstenspaß
-        description: "Es ist wohl kein Dubai-Besuch komplett ohne sie: die Wüste Rub al-Chali. Bezwingen Sie ihre Sanddünen klassisch im Geländewagen – oder in einem Vintage-Landrover – und kombinieren Sie den Ausflug mit einem Emirati-Frühstück oder des Nachts mit einer Astronomie-Tour. Unterwegs grüßen Tiere wie die Arabische Oryx. Aber es gibt auch adrenalingeladene Abenteuer: wie wäre es, die Sandlandschaft per Quad zu durchfahren oder Sandboarding an einer Düne zu üben?"
+        description: "Es ist wohl kein Dubai-Besuch komplett ohne sie: eine Wüstensafari. Bezwingen Sie die Sanddünen klassisch im Geländewagen – oder in einem Vintage-Landrover – und kombinieren Sie den Ausflug mit einem Emirati-Frühstück oder des Nachts mit einer Astronomie-Tour. Unterwegs grüßen Tiere wie die Arabische Antilope. Aber es gibt auch adrenalingeladene Abenteuer: wie wäre es, die Sandlandschaft per Quad zu durchfahren oder Sandboarding an einer Düne zu üben?"
 
       - id: two-third-poi
         img: img3
         title: Wasserparks
-        description: "Vielleicht liegt es gerade an der Wüste, weshalb Dubai so viel für Wasserparks übrig hat. Zumindest scheint, dass man einen ganzen Urlaub lang von Rutsche zu Rutsche ziehen könnte. Angefangen beim Aquaventure Wasserpark, der Adrenalinkicks mit Dubai-Maximalismus mischt, über den Wild Wadi Wasserpark, der schon seit 1999 Wasserratten anzieht, zu den Hindernisparcours im AquaFun. Lieben Sie Lego? Auch dazu gibt es einen Park."
+        description: "Vielleicht liegt es gerade an der Wüste, weshalb Dubai so viel für Wasserparks übrig hat. Zumindest scheint, dass man einen ganzen Urlaub lang von Rutsche zu Rutsche ziehen könnte. Angefangen beim Aquaventure Wasserpark, der Adrenalinkicks mit Dubai-Maximalismus mischt, über den Wild Wadi Wasserpark, der schon seit 1999 Wasserratten anzieht, zu den Hindernisparcours im AquaFun. Und im neuen Strandviertel La Mer findet sich der Laguna Waterpark."
 
       - id: two-fourth-poi
         img: img4
@@ -133,7 +132,7 @@
       - id: two-fourth-poi
         img: img5
         title: Dubai Expo 2020
-        description: "Die Zukunft ist hier. Vom 20. Oktober 2020 bis 10. April 2021 richten sich alle Augen nach Dubai, bei der Expo 2020. Ein halbes Jahr voller Weltklasse-Architektur, Highlights für Gaumen und Auge und Performances, die Sie so nie wieder sehen werden. "
+        description: "Seien Sie dabei bei der größten Show der Welt, der Expo 2020 Dubai, die vom 20. Oktober 2020 bis 10. April 2021 stattfindet. Ein einmaliges Fest, bei dem jeder Tag einzigartig ist! Sehen Sie Auftritte internationaler Superstars, die auch auf der weltweit größten 360-GradProjektionsfläche übertragen werden, oder bewundern Sie eine der faszinierenden Paraden, die täglich stattfinden. Entdecken Sie Gerichte der renommiertesten Köche aus aller Welt. All das, während Sie die 192 atemberaubenden Länderpavillons erkunden, die vollgepackt sind mit  wegweisenden Innovationen der klügsten Köpfe der Welt."
 
 
 
